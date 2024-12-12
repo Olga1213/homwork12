@@ -29,3 +29,10 @@ public class Main {
         this.getPublisher () = pablisher;
     }
 }
+public static void main (String[] args)
+int autor1 =  'Agatha Christie';
+int book1 = 'Murder on the Orient Express';
+int autor2 = 'Marinina';
+int book2 = 'Impeccable reputation';
+
+
